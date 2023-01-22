@@ -3,9 +3,9 @@ When adding a message, it takes in a few different things and then adds the mess
 
 Components: The major component into play is the literall message that is added. Then within that message there is a title fiels, description, and there is a date. Those are all of the components that a message contains and are embedded inside of the message. There are also buttons on the pages but that is not completely a component.
 
-I fulfill the requirements for the project because users are able to type a message and add it to the message board. Then, users are able to see the message at the top of the screen. However, one of the things that this does not support is the ability to view each other's messages. For that you would need to have a database and update the database with the message. I hope to add that functionality in the future.
+I fulfill the requirements for the project because users are able to type a message and add it to the message board. Then, users are able to see the message at the top of the screen. However, one of the things that this does not support is the ability to view each other's messages. For that you would need to have an in-memory database and update the database with the message. I hope to add that functionality in the future.
 
-Start: In order to start the application, cd into the folder and then assuming that you have all of the react dependencies, run ```npm start```. You may not need the react dependencies either, try running npm start while in the folder.
+Start: In order to start the application, cd into the folder and then assuming that you have all of the react dependencies, run ```npm start```. Make sure to do npm install first to get all of the node modules that serve as dependencies
 
 # Getting Started with Create React App
 
